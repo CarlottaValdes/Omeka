@@ -59,8 +59,8 @@ msgstr "Un nom donné à la ressource."
 #. Dublin Core: Creator element name
 #: admin/themes/default/items/browse.php:47
 #: application/views/scripts/items/browse.php:20
-msgid "Creator"
-msgstr "Créateur"
+msgid "Author"
+msgstr "Auteur"
 
 #. Dublin Core: Creator element description
 msgid "An entity primarily responsible for making the resource"
@@ -124,8 +124,8 @@ msgid "The nature or genre of the resource"
 msgstr "La nature ou le genre de la ressource."
 
 #. Dublin Core: Format element name
-msgid "Format"
-msgstr "Format"
+msgid "Format & copy"
+msgstr "Format & exemplaire"
 
 #. Dublin Core: Format element description
 msgid "The file format, physical medium, or dimensions of the resource"
@@ -164,8 +164,8 @@ msgid "A related resource"
 msgstr "Une ressource dérivée."
 
 #. Dublin Core: Coverage element name
-msgid "Coverage"
-msgstr "Couverture"
+msgid "Place & century of edition "
+msgstr "Lieu et siècle d'édition"
 
 #. Dublin Core: Coverage element description
 msgid ""
